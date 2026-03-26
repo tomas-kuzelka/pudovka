@@ -1,9 +1,21 @@
 import { useState } from 'react';
+import { isMuted, toggleMute } from '../utils/audio';
 
 const SetupScreen = ({ onStart }) => {
-  const [players, setPlayers] = useState(['Hráč 1', 'Hráč 2']);
-  const [targetScore, setTargetScore] = useState(100);
+  const [players, setPlayers] = useState(() => {
+    const saved = localStorage.getItem('gamePlayers');
+    return saved ? JSON.parse(saved) : ['Hráč 1', 'Hráč 2'];
+  });
+  const [targetScore, setTargetScore] = useState(() => {
+    const saved = localStorage.getItem('gameTargetScore');
+    return saved ? Number(saved) : 100;
+  });
   const [newName, setNewName] = useState('');
+  const [muted, setMuted] = useState(isMuted);
+
+  const handleMuteToggle = () => {
+    setMuted(toggleMute());
+  };
 
   const handleAddPlayer = (e) => {
     e.preventDefault();
@@ -19,6 +31,8 @@ const SetupScreen = ({ onStart }) => {
 
   const handleStart = () => {
     if (players.length >= 2) {
+      localStorage.setItem('gamePlayers', JSON.stringify(players));
+      localStorage.setItem('gameTargetScore', targetScore.toString());
       onStart(players, targetScore);
     } else {
       alert("Pro hru jsou potřeba alespoň 2 hráči.");
@@ -27,9 +41,18 @@ const SetupScreen = ({ onStart }) => {
 
   return (
     <div className="setup-screen card">
-      <h1 className="title">Vědomostní Risk</h1>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+        <h1 className="title" style={{ margin: 0 }}>Vědomostní Risk</h1>
+        <button 
+          onClick={handleMuteToggle} 
+          className="btn-add" 
+          style={{ padding: '8px 16px', fontSize: '0.9rem', background: muted ? '#ef4444' : 'var(--glass-bg)' }}
+        >
+          {muted ? 'Zvuky: VYP' : 'Zvuky: ZAP'}
+        </button>
+      </div>
       
-      <div className="settings-section">
+      <div className="settings-section" style={{ marginTop: '2rem' }}>
         <h2>Nastavení hry</h2>
         <div className="input-group">
           <label>Cílové skóre pro vítězství:</label>

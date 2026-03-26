@@ -1,5 +1,12 @@
 const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
 
+export let isMuted = JSON.parse(localStorage.getItem('gameMute')) || false;
+export const toggleMute = () => {
+  isMuted = !isMuted;
+  localStorage.setItem('gameMute', JSON.stringify(isMuted));
+  return isMuted;
+};
+
 const playTone = (type, startFreq, endFreq, duration, volume = 0.5, typeEndFreq) => {
   if (audioCtx.state === 'suspended') audioCtx.resume();
   const osc = audioCtx.createOscillator();
@@ -41,16 +48,19 @@ const wrongSounds = [
 ];
 
 export const playCorrectSound = () => {
+  if (isMuted) return;
   const variation = correctSounds[Math.floor(Math.random() * correctSounds.length)];
   variation();
 };
 
 export const playWrongSound = () => {
+  if (isMuted) return;
   const variation = wrongSounds[Math.floor(Math.random() * wrongSounds.length)];
   variation();
 };
 
 export const playVictorySound = () => {
+  if (isMuted) return;
   if (audioCtx.state === 'suspended') audioCtx.resume();
   const osc1 = audioCtx.createOscillator();
   const osc2 = audioCtx.createOscillator();

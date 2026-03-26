@@ -46,9 +46,9 @@ function App() {
 
   const endTurn = (pointsEarned) => {
     setPlayers(prevPlayers => {
-      const updated = [...prevPlayers];
-      updated[currentPlayerIndex].score += pointsEarned;
-      return updated;
+      return prevPlayers.map((p, idx) => 
+        idx === currentPlayerIndex ? { ...p, score: p.score + pointsEarned } : p
+      );
     });
 
     // Check if anyone reached target score (wait until end of round)
