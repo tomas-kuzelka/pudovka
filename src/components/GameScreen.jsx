@@ -140,7 +140,7 @@ const GameScreen = ({ players, currentPlayerIndex, question, onEndTurn }) => {
         <div className="actions">
           {consecutiveCorrect > 0 && consecutiveCorrect < 5 && !hasFailed && (
             <button className="btn-bank" onClick={handleEndTurnManually}>
-              Ukončit tah a zapsat {turnPoints} bodů
+              Ukončit tah a zapsat {turnPoints} {turnPoints === 1 ? 'bod' : turnPoints >= 2 && turnPoints <= 4 ? 'body' : 'bodů'}
             </button>
           )}
           {hasFailed && (
