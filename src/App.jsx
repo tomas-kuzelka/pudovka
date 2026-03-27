@@ -14,7 +14,7 @@ function App() {
   const [currentPlayerIndex, setCurrentPlayerIndex] = useState(0);
 
   useEffect(() => {
-    fetch('/data/questions.json')
+    fetch('/pudovka/data/questions.json')
       .then((res) => res.json())
       .then((data) => {
         // Pre-process questions to pick exactly 5 correct and 5 wrong
