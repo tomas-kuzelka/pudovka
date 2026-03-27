@@ -386,12 +386,6 @@ button:disabled {
   width: 100%;
 }
 
-@media (max-width: 600px) {
-  .answers-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
 .answer-btn {
   background: var(--glass-bg);
   border: 1px solid var(--glass-border);
