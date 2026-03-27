@@ -27,7 +27,9 @@ Ale pozor! Pokud hráč kdykoliv narazí i jen na jedinou špatnou odpověď, zt
    *(Poznámka: repozitář obsahuje `.npmrc` soubor, který automaticky řeší případné závislosti přes `legacy-peer-deps`, instalace by tak měla proběhnout hladce.)*
 4. Spuštění vývojového serveru:  
    `npm run dev`
-5. Pro vytvoření produkčního / PWA mobilního buildu slouží příkaz:  
+5. Spuštění mimo localhost pro hraní třeba na mobilu, který je na stejné síti:  
+   `npm run dev -- --host`
+6. Pro vytvoření produkčního / PWA mobilního buildu slouží příkaz:  
    `npm run build`
 
 *Enjoy & May the smartest player win!*
