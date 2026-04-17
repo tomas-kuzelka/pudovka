@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "topic": "Světová geografie",
+    "question": "Které z těchto států se nacházejí v Jižní Americe?",
+    "correct": [
+      "Brazílie",
+      "Argentina",
+      "Peru",
+      "Kolumbie",
+      "Chile",
+      "Ekvádor",
+      "Bolívie",
+      "Venezuela"
+    ],
+    "wrong": [
+      "Mexiko",
+      "Kostarika",
+      "Španělsko",
+      "Kuba",
+      "Honduras",
+      "Guatemala",
+      "Nikaragua",
+      "Portugalsko"
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "Světová geografie",
+    "question": "Která z těchto měst jsou hlavními městy evropských států?",
+    "correct": [
+      "Praha",
+      "Berlín",
+      "Paříž",
+      "Madrid",
+      "Řím",
+      "Londýn",
+      "Vídeň",
+      "Varšava",
+      "Kodaň"
+    ],
+    "wrong": [
+      "New York",
+      "Tokio",
+      "Sydney",
+      "Barcelona",
+      "Milán",
+      "Mnichov",
+      "Ženeva",
+      "Instanbul"
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "Světová geografie",
+    "question": "Které z těchto řek protékají Evropou?",
+    "correct": [
+      "Rýn",
+      "Dunaj",
+      "Volha",
+      "Labe",
+      "Temže",
+      "Vltava",
+      "Seina",
+      "Pád"
+    ],
+    "wrong": [
+      "Amazonka",
+      "Nil",
+      "Mississippi",
+      "Jang-c’-ťiang",
+      "Colorado",
+      "Ganga",
+      "Zambezi",
+      "Mekong"
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "Světová geografie",
+    "question": "Vyberte ostrovy patřící Řecku:",
+    "correct": [
+      "Kréta",
+      "Rhodos",
+      "Korfu",
+      "Zakynthos",
+      "Santorini",
+      "Mykonos",
+      "Karpathos",
+      "Lesbos"
+    ],
+    "wrong": [
+      "Sicílie",
+      "Sardinie",
+      "Kypr",
+      "Malorka",
+      "Korzika",
+      "Ibiza",
+      "Tenerife",
+      "Madeira"
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "Světová geografie",
+    "question": "Které z těchto pohoří se nachází v Asii?",
+    "correct": [
+      "Himálaj",
+      "Karakoram",
+      "Pamír",
+      "Altaj",
+      "Ťan-šan",
+      "Hindúkuš",
+      "Kunlun"
+    ],
+    "wrong": [
+      "Andy",
+      "Alpy",
+      "Skalnaté hory",
+      "Apalačské pohoří",
+      "Atlas",
+      "Kordillery",
+      "Pyreneje"
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "Světová geografie",
+    "question": "Které státy sousedí s Českou republikou?",
+    "correct": [
+      "Německo",
+      "Polsko",
+      "Slovensko",
+      "Rakousko",
+      "Bavorsko (Německo)",
+      "Sasko (Německo)",
+      "Slezsko (Polsko)",
+      "Dolní Rakousy"
+    ],
+    "wrong": [
+      "Maďarsko",
+      "Ukrajina",
+      "Slovinsko",
+      "Švýcarsko",
+      "Lichtenštejnsko",
+      "Itálie",
+      "Rumunsko",
+      "Srbsko"
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "Světová geografie",
+    "question": "Které z těchto zemí se účastní G7 (Skupina 7)?",
+    "correct": [
+      "Spojené státy",
+      "Kanada",
+      "Francie",
+      "Německo",
+      "Itálie",
+      "Japonsko",
+      "Spojené království"
+    ],
+    "wrong": [
+      "Rusko",
+      "Čína",
+      "Indie",
+      "Brazílie",
+      "Jihoafrická republika",
+      "Španělsko",
+      "Austrálie",
+      "Jižní Korea"
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "Světová geografie",
+    "question": "Které zániklé civilizace sídlily na území dnešního Mexika či Střední Ameriky?",
+    "correct": [
+      "Aztékové",
+      "Mayové",
+      "Toltékové",
+      "Olmékové",
+      "Zapotékové",
+      "Mixtékové"
+    ],
+    "wrong": [
+      "Inkové",
+      "Sumerové",
+      "Chetité",
+      "Féničané",
+      "Asyřané",
+      "Mínojci",
+      "Babyloňané",
+      "Moche"
+    ]
+  },
+  {
+    "id": 9,
+    "topic": "IT technologie",
+    "question": "Které jazyky se běžně používají pro backend (server) vývoj?",
+    "correct": [
+      "Node.js",
+      "Python",
+      "Java",
+      "C#",
+      "Go",
+      "Ruby",
+      "PHP",
+      "Rust"
+    ],
+    "wrong": [
+      "HTML",
+      "CSS",
+      "React Native",
+      "Vue.js",
+      "Svelte",
+      "SCSS",
+      "Bootstrap",
+      "WebAssembly"
+    ]
+  },
+  {
+    "id": 10,
+    "topic": "IT technologie",
+    "question": "Vyberte platné názvy SQL a NoSQL databází:",
+    "correct": [
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Redis",
+      "Cassandra",
+      "Oracle",
+      "SQLite",
+      "DynamoDB"
+    ],
+    "wrong": [
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "Nginx",
+      "Apache",
+      "Kafka",
+      "Hadoop",
+      "Express"
+    ]
+  },
+  {
+    "id": 11,
+    "topic": "IT technologie",
+    "question": "Které firmy vyvíjejí nebo vyvinuly populární herní enginy?",
+    "correct": [
+      "Epic Games (Unreal)",
+      "Unity Technologies (Unity)",
+      "Valve (Source)",
+      "Crytek (CryEngine)",
+      "EA DICE (Frostbite)",
+      "Id Software (id Tech)"
+    ],
+    "wrong": [
+      "Spotify",
+      "Netflix",
+      "Uber",
+      "Airbnb",
+      "Tesla",
+      "Palantir",
+      "Dropbox",
+      "Slack"
+    ]
+  },
+  {
+    "id": 12,
+    "topic": "IT technologie",
+    "question": "Co patří mezi běžné protokoly počítačových sítí?",
+    "correct": [
+      "HTTP",
+      "FTP",
+      "TCP",
+      "UDP",
+      "IP",
+      "SMTP",
+      "SSH",
+      "DNS"
+    ],
+    "wrong": [
+      "C++",
+      "USB",
+      "SSD",
+      "HDMI",
+      "VGA",
+      "JSON",
+      "XML",
+      "HTML"
+    ]
+  },
+  {
+    "id": 13,
+    "topic": "IT technologie",
+    "question": "Jaké technologie či koncepty souvisejí s kryptoměnami?",
+    "correct": [
+      "Blockchain",
+      "Proof of Work",
+      "Smart contracts",
+      "Hashování",
+      "Ledger",
+      "Peněženka (Wallet)",
+      "Těžba (Mining)"
+    ],
+    "wrong": [
+      "Relational schemas",
+      "Garbage collection",
+      "Virtual DOM",
+      "Load balancing",
+      "Continuous Integration",
+      "Agile",
+      "Scrum"
+    ]
+  },
+  {
+    "id": 15,
+    "topic": "IT technologie",
+    "question": "Které operační systémy vycházejí nebo jsou založené na Linuxu/Unixu?",
+    "correct": [
+      "Ubuntu",
+      "macOS",
+      "Debian",
+      "Android",
+      "Fedora",
+      "CentOS",
+      "Red Hat",
+      "Arch Linux"
+    ],
+    "wrong": [
+      "Windows 10",
+      "Windows 11",
+      "MS-DOS",
+      "OS/2",
+      "ReactOS",
+      "Symbian",
+      "BlackBerry OS"
+    ]
+  },
+  {
+    "id": 16,
+    "topic": "IT technologie",
+    "question": "Vyberte známé poskytovatele veřejných cloudových služeb (Cloud providers):",
+    "correct": [
+      "AWS (Amazon)",
+      "Google Cloud",
+      "Microsoft Azure",
+      "DigitalOcean",
+      "Linode",
+      "Heroku",
+      "Vultr"
+    ],
+    "wrong": [
+      "Logitech",
+      "Razer",
+      "Corsair",
+      "Yamaha",
+      "Bose",
+      "Sony",
+      "Nissan",
+      "General Electric"
+    ]
+  },
+  {
+    "id": 17,
+    "topic": "Česká historie",
+    "question": "Kdo patřil mezi české knížata a krále z rodu Přemyslovců?",
+    "correct": [
+      "Přemysl Otakar I.",
+      "Václav I.",
+      "Přemysl Otakar II.",
+      "Václav II.",
+      "Václav III.",
+      "Boleslav I.",
+      "Spytihněv"
+    ],
+    "wrong": [
+      "Karel IV.",
+      "Samo",
+      "Jiří z Poděbrad",
+      "Ferdinand I.",
+      "Rudolf II.",
+      "Vladislav Jagellonský",
+      "Albrecht z Valdštejna"
+    ]
+  },
+  {
+    "id": 18,
+    "topic": "Česká historie",
+    "question": "Které události se odehrály v 15. století na našem území?",
+    "correct": [
+      "Upálení Jana Husa",
+      "Bitva u Lipan",
+      "Vznik husitství",
+      "Bitva na Vítkově",
+      "První pražská defenestrace",
+      "Kompaktáta basilejská",
+      "Založení Jednoty bratrské"
+    ],
+    "wrong": [
+      "Bitva na Bílé hoře",
+      "Vyhlášení Zlaté buly sicilské",
+      "Atentát na Heydricha",
+      "Vynález knihtisku",
+      "Třicetiletá válka",
+      "Vznik Československa"
+    ]
+  },
+  {
+    "id": 19,
+    "topic": "Česká historie",
+    "question": "Které osobnosti byly úzce spojeny s národním obrozením?",
+    "correct": [
+      "Josef Dobrovský",
+      "Josef Jungmann",
+      "František Palacký",
+      "Karel Havlíček Borovský",
+      "Božena Němcová",
+      "Karel Hynek Mácha",
+      "Jan Kollár"
+    ],
+    "wrong": [
+      "Karel Čapek",
+      "Tomáš Garrigue Masaryk",
+      "Edvard Beneš",
+      "Václav Havel",
+      "Alexander Dubček",
+      "Jan Žižka",
+      "Jan Nepomucký"
+    ]
+  },
+  {
+    "id": 20,
+    "topic": "Česká historie",
+    "question": "Vyberte jména československých a českých prezidentů po roce 1918:",
+    "correct": [
+      "Tomáš Garrigue Masaryk",
+      "Edvard Beneš",
+      "Klement Gottwald",
+      "Antonín Zápotocký",
+      "Václav Havel",
+      "Václav Klaus",
+      "Miloš Zeman",
+      "Petr Pavel"
+    ],
+    "wrong": [
+      "Alexandr Dubček",
+      "František Palacký",
+      "Karel Kramář",
+      "Milan Rastislav Štefánik",
+      "Vojtěch Dyk",
+      "Karel Čapek",
+      "Mirek Topolánek"
+    ]
+  },
+  {
+    "id": 21,
+    "topic": "Česká historie",
+    "question": "Které bitvy se odehrály na území dnešního Česka nebo měly pro stát zásadní význam?",
+    "correct": [
+      "Bitva na Moravském poli",
+      "Bitva na Bílé hoře",
+      "Bitva u Slavkova (Tří císařů)",
+      "Bitva u Lipan",
+      "Bitva u Hradce Králové",
+      "Bitva u Sudoměře"
+    ],
+    "wrong": [
+      "Bitva u Waterloo",
+      "Bitva u Verdunu",
+      "Bitva u Stalingradu",
+      "Bitva u Kresčaku",
+      "Bitva u Moháče",
+      "Bitva na Sommě"
+    ]
+  },
+  {
+    "id": 22,
+    "topic": "Česká historie",
+    "question": "Jaké stavby byly založeny či významně podporovány Karlem IV.?",
+    "correct": [
+      "Karlštejn",
+      "Karlova univerzita",
+      "Karlův most",
+      "Nové Město pražské",
+      "Katedrála sv. Víta",
+      "Hladová zeď"
+    ],
+    "wrong": [
+      "Národní divadlo",
+      "Petřínská rozhledna",
+      "Vila Tugendhat",
+      "Pražský orloj",
+      "Klementinum",
+      "Žďárský most (Zelená hora)"
+    ]
+  },
+  {
+    "id": 23,
+    "topic": "Česká historie",
+    "question": "Které události bezprostředně souvisí se založením či rozpadem Československa?",
+    "correct": [
+      "Vyhlášení nezávislosti 1918",
+      "Mnichovská dohoda",
+      "Sametová revoluce",
+      "Pomlčková válka",
+      "Rozdělení ČSFR v roce 1993",
+      "Washingtonská deklarace"
+    ],
+    "wrong": [
+      "Květnové povstání pražského lidu",
+      "Pražské jaro (1968)",
+      "Charta 77",
+      "Operace Anthropoid",
+      "Vyhlášení Protektorátu Čechy a Morava"
+    ]
+  },
+  {
+    "id": 24,
+    "topic": "Česká historie",
+    "question": "Zástupci jakých rodů někdy vládli Českým zemím v období středověku a raného novověku?",
+    "correct": [
+      "Přemyslovci",
+      "Lucemburkové",
+      "Jagellonci",
+      "Habsburkové",
+      "Poděbradové",
+      "Wittelsbachové (Zimní král)"
+    ],
+    "wrong": [
+      "Bourboni",
+      "Tudorovci",
+      "Romanovci",
+      "Rurikovci",
+      "Hohenzollernové",
+      "Stuartovci"
+    ]
+  },
+  {
+    "id": 25,
+    "topic": "Fauna a flóra",
+    "question": "Kteří z těchto živočichů patří mezi savce?",
+    "correct": [
+      "Delfín",
+      "Netopýr",
+      "Velryba hrbolatá",
+      "Pes dingo",
+      "Lachtan",
+      "Gorila",
+      "Slon africký"
+    ],
+    "wrong": [
+      "Tučňák",
+      "Žralok bílý",
+      "Krokodýl",
+      "Včela medonosná",
+      "Kudlanka nábožná",
+      "Pštros dvouprstý",
+      "Užovka obojková"
+    ]
+  },
+  {
+    "id": 26,
+    "topic": "Fauna a flóra",
+    "question": "Které z těchto stromů obvykle řadíme mezi jehličnany?",
+    "correct": [
+      "Smrk ztepilý",
+      "Borovice lesní",
+      "Modřín opadavý",
+      "Jedle bělokorá",
+      "Tis červený",
+      "Jalovec obecný",
+      "Sekvojovec obrovský"
+    ],
+    "wrong": [
+      "Dub letní",
+      "Buk lesní",
+      "Javor klen",
+      "Bříza bělokorá",
+      "Lípa srdčitá",
+      "Vrba jíva",
+      "Jasan ztepilý"
+    ]
+  },
+  {
+    "id": 27,
+    "topic": "Fauna a flóra",
+    "question": "Které z těchto hub s velkou pravděpodobností seberete v lese jako JEDLÉ a vysoce ceněné?",
+    "correct": [
+      "Hřib smrkový",
+      "Bedla vysoká",
+      "Liška obecná",
+      "Křemenáč březový",
+      "Klouzek sličný",
+      "Pýchavka obrovská"
+    ],
+    "wrong": [
+      "Muchomůrka zelená",
+      "Muchomůrka červená",
+      "Závojenka olovová",
+      "Ucháč obecný",
+      "Hřib satan",
+      "Pavučinec plyšový"
+    ]
+  },
+  {
+    "id": 28,
+    "topic": "Fauna a flóra",
+    "question": "Která z těchto zvířat lze volně (přirozeně) potkat v australské přírodě?",
+    "correct": [
+      "Klokan",
+      "Koala",
+      "Ježura australská",
+      "Ptakopysk",
+      "Emu bělolící",
+      "Wombat",
+      "Dingo"
+    ],
+    "wrong": [
+      "Tygr bengálský",
+      "Medvěd hnědý",
+      "Slon africký",
+      "Nosorožec tuponosý",
+      "Los evropský",
+      "Tučňák císařský",
+      "Panda velká"
+    ]
+  },
+  {
+    "id": 29,
+    "topic": "Fauna a flóra",
+    "question": "Jaké orgány standardně figurují v rostlinném těle u vyšších cévnatých rostlin?",
+    "correct": [
+      "Kořen",
+      "Stonek",
+      "List",
+      "Květ",
+      "Plod",
+      "Semeno"
+    ],
+    "wrong": [
+      "Plíce",
+      "Srdce",
+      "Žábry",
+      "Nervová soustava",
+      "Ledviny",
+      "Chlupy",
+      "Mycelium"
+    ]
+  },
+  {
+    "id": 30,
+    "topic": "Fauna a flóra",
+    "question": "Které ptačí druhy jsou proslulé tím, že většinou neumí vůbec létat?",
+    "correct": [
+      "Pštros",
+      "Emu",
+      "Tučňák",
+      "Nandu",
+      "Kivi",
+      "Kasuár"
+    ],
+    "wrong": [
+      "Orel",
+      "Sokol",
+      "Holub",
+      "Vlaštovka",
+      "Albatros",
+      "Vrabec",
+      "Datel"
+    ]
+  },
+  {
+    "id": 31,
+    "topic": "Fauna a flóra",
+    "question": "Kdo patří mezi obojživelníky?",
+    "correct": [
+      "Skokan hnědý",
+      "Ropucha obecná",
+      "Mlok skvrnitý",
+      "Čolek obecný",
+      "Blatnice skvrnitá",
+      "Rosnička zelená"
+    ],
+    "wrong": [
+      "Krokodýl nilský",
+      "Zmije obecná",
+      "Užovka hladká",
+      "Kobra indická",
+      "Želva bahenní",
+      "Leguán zelený"
+    ]
+  },
+  {
+    "id": 32,
+    "topic": "Fauna a flóra",
+    "question": "Které květy či byliny jsou známé svými léčivými účinky a hojně používané v čajích?",
+    "correct": [
+      "Heřmánek pravý",
+      "Meduňka lékařská",
+      "Máta peprná",
+      "Mateřídouška",
+      "Šalvěj lékařská",
+      "Kopřiva dvoudomá",
+      "Lípa (květ)"
+    ],
+    "wrong": [
+      "Bolehlav plamatý",
+      "Rulík zlomocný",
+      "Vraní oko čtyřlisté",
+      "Durman obecný",
+      "Ocún jesenní",
+      "Náprstník červený"
+    ]
+  },
+  {
+    "id": 33,
+    "topic": "Filmová kinematografie",
+    "question": "Které filmy na plátno přinesl vizionářský režisér Christopher Nolan?",
+    "correct": [
+      "Inception (Počátek)",
+      "Interstellar",
+      "Temný rytíř",
+      "Dunkerk",
+      "Memento",
+      "Tenet",
+      "Oppenheimer",
+      "Prestige (Dokonalý trik)"
+    ],
+    "wrong": [
+      "Avatar",
+      "Pulp Fiction",
+      "Kmotr",
+      "Zrození planety opic",
+      "Star Wars: Nová naděje",
+      "Pán prstenů",
+      "Jurský park",
+      "Matrix"
+    ]
+  },
+  {
+    "id": 34,
+    "topic": "Filmová kinematografie",
+    "question": "Kteří herci někdy ve filmu ztvárnili ikonickou roli Jokera (DC Comics)?",
+    "correct": [
+      "Heath Ledger",
+      "Joaquin Phoenix",
+      "Jack Nicholson",
+      "Jared Leto",
+      "Cesar Romero",
+      "Barry Keoghan"
+    ],
+    "wrong": [
+      "Christian Bale",
+      "Tom Hardy",
+      "Gary Oldman",
+      "Michael Keaton",
+      "Ben Affleck",
+      "Robert Pattinson",
+      "Morgan Freeman"
+    ]
+  },
+  {
+    "id": 35,
+    "topic": "Filmová kinematografie",
+    "question": "Filmy režiséra Quentina Tarantina zahrnují:",
+    "correct": [
+      "Pulp Fiction",
+      "Kill Bill",
+      "Hanebný pancharti",
+      "Nespoutaný Django",
+      "Tenkrát v Hollywoodu",
+      "Gauneři",
+      "Osm hrozných"
+    ],
+    "wrong": [
+      "Klub rváčů",
+      "Temný rytíř",
+      "Mlčení jehňátek",
+      "Kmotr",
+      "Vykoupení z věznice Shawshank",
+      "Se7en (Sedm)",
+      "Mafiáni (Goodfellas)"
+    ]
+  },
+  {
+    "id": 36,
+    "topic": "Filmová kinematografie",
+    "question": "Které filmy zaznamenaly celosvětový úspěch (finančně) v rámci Marvel Cinematic Universe (MCU)?",
+    "correct": [
+      "Avengers: Endgame",
+      "Spider-Man: Bez domova",
+      "Black Panther",
+      "Avengers: Infinity War",
+      "Iron Man 3",
+      "Strážci Galaxie",
+      "Thor: Ragnarok"
+    ],
+    "wrong": [
+      "Temný rytíř",
+      "Muž z oceli (Man of Steel)",
+      "Wonder Woman",
+      "Aquaman",
+      "Justice League",
+      "X-Men: Budoucí minulost",
+      "Joker"
+    ]
+  },
+  {
+    "id": 38,
+    "topic": "Filmová kinematografie",
+    "question": "Jaká stvoření či rasy můžeme najít ve fantasy světě Pána prstenů od J. R. R. Tolkiena?",
+    "correct": [
+      "Hobiti",
+      "Elfové",
+      "Trpaslíci",
+      "Skřeti (Orkové)",
+      "Enti",
+      "Nazgûlové",
+      "Uruk-hai",
+      "Skuruti"
+    ],
+    "wrong": [
+      "Zlobři (Trollové typu Shrek)",
+      "Autoboti",
+      "Dalekové",
+      "Klingoni",
+      "Jediové",
+      "Mozkomorové (Dementors)",
+      "Narniané"
+    ]
+  },
+  {
+    "id": 39,
+    "topic": "Filmová kinematografie",
+    "question": "Jaké filmy patří do franšízy Star Wars (Hvězdné války)?",
+    "correct": [
+      "Nová naděje",
+      "Impérium vrací úder",
+      "Skrytá hrozba",
+      "Klony útočí",
+      "Síla se probouzí",
+      "Poslední z Jediů",
+      "Rogue One",
+      "Návrat Jediho"
+    ],
+    "wrong": [
+      "Hněv Khánův",
+      "Do temnoty",
+      "První kontakt",
+      "Tajemná záře nad Pacifikem",
+      "Den nezávislosti",
+      "Návrat do budoucnosti",
+      "Vesmírná odysea"
+    ]
+  },
+  {
+    "id": 40,
+    "topic": "Filmová kinematografie",
+    "question": "Které slavné seriály produkovala stanice HBO?",
+    "correct": [
+      "Hra o trůny (Game of Thrones)",
+      "Rodina Sopránů",
+      "Perníkový táta",
+      "Černobyl",
+      "Temný případ (True Detective)",
+      "Bratrstvo neohrožených",
+      "Last of us"
+    ],
+    "wrong": [
+      "Perníkový táta (Breaking Bad) (technicky AMC)",
+      "Stranger Things",
+      "Zaklínač (The Witcher)",
+      "Živí mrtví (The Walking Dead)",
+      "House of Cards",
+      "Peaky Blinders - Gangy z Birminghamu"
+    ]
+  },
+  {
+    "id": 41,
+    "topic": "Rocková muzika a punk nezemřel",
+    "question": "Zástupci původního boomu punk rocku ze 70. let ve Velké Británii a USA zahrnují:",
+    "correct": [
+      "The Clash",
+      "Sex Pistols",
+      "Ramones",
+      "The Damned",
+      "Misfits",
+      "Dead Kennedys",
+      "Iggy and the Stooges (proto-punk)"
+    ],
+    "wrong": [
+      "Nirvana",
+      "Green Day",
+      "The Offspring",
+      "Blink-182",
+      "Slipknot",
+      "Metallica",
+      "Iron Maiden",
+      "My Chemical Romance"
+    ]
+  },
+  {
+    "id": 43,
+    "topic": "Rocková muzika a punk nezemřel",
+    "question": "Které písně pocházejí od legendárních Nirvana?",
+    "correct": [
+      "Smells Like Teen Spirit",
+      "Come As You Are",
+      "Heart-Shaped Box",
+      "Lithium",
+      "In Bloom",
+      "Something in the Way",
+      "About a Girl"
+    ],
+    "wrong": [
+      "Everlong",
+      "Black Hole Sun",
+      "Alive",
+      "Jeremy",
+      "Enter Sandman",
+      "Creep",
+      "Plush",
+      "Basket Case"
+    ]
+  },
+  {
+    "id": 45,
+    "topic": "Rocková muzika a punk nezemřel",
+    "question": "České hardcore/pop punk/rockové kapely (zejména ty z festivalů jako Mighty Sounds):",
+    "correct": [
+      "Visací zámek",
+      "Pipes and Pints",
+      "SPS",
+      "Horkýže Slíže (SK)",
+      "Znouzectnost",
+      "Vypsaná fiXa",
+      "Totální nasazení",
+      "E!E"
+    ],
+    "wrong": [
+      "Kryštof",
+      "Chinaski",
+      "Mirai",
+      "Marek Ztracený",
+      "Argema",
+      "Kabát (spíše hard rock, ale budiž)",
+      "Lucie Bílá",
+      "Karel Gott"
+    ]
+  },
+  {
+    "id": 46,
+    "topic": "Rocková muzika a punk nezemřel",
+    "question": "Známí čeští i slovenští interpreti, kteří výrazně ovlivnili porevoluční alternativní či undergroundovou hudbu:",
+    "correct": [
+      "Psí vojáci (Filip Topol)",
+      "Plastic People of the Universe",
+      "Garáž",
+      "Prouza",
+      "Jasná Páka / Hudba Praha",
+      "Mňága a Žďorp",
+      "Už jsme doma"
+    ],
+    "wrong": [
+      "Michal David",
+      "Daniel Hůlka",
+      "Lunetic",
+      "Holki",
+      "Maxim Turbulenc",
+      "Verona",
+      "Karel Vágner"
+    ]
+  },
+  {
+    "id": 48,
+    "topic": "Rocková muzika a punk nezemřel",
+    "question": "Na jakých festivalových pódiích (globálně i CZ) byste naprosto typicky očekávali rock, punk nebo metal?",
+    "correct": [
+      "Wacken Open Air",
+      "Download Festival",
+      "Mighty Sounds",
+      "Brutal Assault",
+      "Hellfest",
+      "Rock am Ring",
+      "Masters of Rock"
+    ],
+    "wrong": [
+      "Tomorrowland",
+      "Defqon.1",
+      "Transmission",
+      "Ultra Music Festival",
+      "Creamfields",
+      "Hip Hop Kemp",
+      "Mácháč"
+    ]
+  },
+  {
+    "id": 49,
+    "topic": "IT technologie",
+    "question": "Které zkratky souvisejí převážně s Frontend ekosystémem (CSS, formáty aj)?",
+    "correct": [
+      "DOM",
+      "CSSOM",
+      "HTML",
+      "JSX",
+      "SCSS",
+      "SASS",
+      "LESS"
+    ],
+    "wrong": [
+      "API",
+      "SQL",
+      "SSH",
+      "TCP/IP",
+      "BGP",
+      "ARP",
+      "K8s"
+    ]
+  },
+  {
+    "id": 50,
+    "topic": "Fauna a flóra",
+    "question": "Co platí o Velkém bariérovém útesu?",
+    "correct": [
+      "Leží u pobřeží Austrálie",
+      "Skládá se z korálů",
+      "Je to největší systém korálových útesů na světě",
+      "Podléhá bělení korálů (ohrožení)",
+      "Zasahuje ho teplý oceán"
+    ],
+    "wrong": [
+      "Nachází se v Karibiku",
+      "Je vytvořen čistě sopečnou činností",
+      "Teplota vody je zde trvale pod 10°C",
+      "Je tvořen převážně sladkou vodou",
+      "Žijí zde zejména polární medvědi a tučňáci"
+    ]
+  },
+  {
+    "id": 51,
+    "topic": "Lidské tělo",
+    "author": "JiB",
+    "question": "Mezi párové orgány v lidském těle patří:",
+    "correct": [
+      "Vaječníky",
+      "Bubínky",
+      "Varlata",
+      "Ledviny",
+      "Plíce",
+      "Nadledviny"
+    ],
+    "wrong": [
+      "Játra",
+      "Srdce",
+      "Sleziny",
+      "Mozky",
+      "Slinivky",
+      "Dělohy",
+      "Brzlíky",
+      "Penisy",
+      "Močové měchýře"
+    ]
+  },
+  {
+    "id": 52,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Patří mezi 10 největších hor světa?",
+    "correct": [
+      "K2",
+      "Kančendženga",
+      "Lhoce",
+      "Makalu",
+      "Čo Oju",
+      "Dhaulágirí",
+      "Manáslu",
+      "Nanga Parbat",
+      "Annapurna"
+    ],
+    "wrong": [
+      "Gašerbrum I",
+      "Gašerbrum II",
+      "Broad Peak",
+      "Šiša Pangma",
+      "Annapurna II",
+      "Kilimandžáro",
+      "Čobolaguna",
+      "Nupce",
+      "Mount McKinley"
+    ]
+  },
+  {
+    "id": 53,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Jde o hlavní město evropského státu?",
+    "correct": [
+      "Riga",
+      "Madrid",
+      "Oslo",
+      "Monaco",
+      "Ljublana",
+      "Kyjev",
+      "Minsk",
+      "Helsinki",
+      "Tiraňa",
+      "Skopje",
+      "Sofie",
+      "Podgorica"
+    ],
+    "wrong": [
+      "Bonn",
+      "Lima",
+      "Ženeva",
+      "Istanbul",
+      "Rotterdam",
+      "Koblenz",
+      "Terst",
+      "Mostar",
+      "Kaunas",
+      "Kaliningrad",
+      "Tripolis"
+    ]
+  },
+  {
+    "id": 54,
+    "topic": "Matematika",
+    "author": "JiB",
+    "question": "Jde o prvočíslo?",
+    "correct": [
+      "2",
+      "3",
+      "5",
+      "17",
+      "19",
+      "173",
+      "271",
+      "199",
+      "4091",
+      "89"
+    ],
+    "wrong": [
+      "1",
+      "77",
+      "143",
+      "4",
+      "15",
+      "49",
+      "9",
+      "2048",
+      "12",
+      "69"
+    ]
+  },
+  {
+    "id": 55,
+    "topic": "IT",
+    "author": "JiB",
+    "question": "Umíš poznat známé programátory?",
+    "correct": [
+      "Bill Gates",
+      "Mark Zuckerberg",
+      "Barbara Liskov",
+      "Dennis Ritchie",
+      "Brian Kernighan",
+      "Guido van Rossum",
+      "Linus Torvalds",
+      "Ada Lovelace",
+      "Edsger Dijkstra"
+    ],
+    "wrong": [
+      "David Beckham",
+      "Tupac Shakur",
+      "Nipsey Hussle",
+      "Danny Rodriguez",
+      "Stephen Jobas",
+      "Hare Krisna",
+      "Lindsey Vonn",
+      "Mark Gates",
+      "George Soros"
+    ]
+  },
+  {
+    "id": 56,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Jde o moře u evropských břehů?",
+    "correct": [
+      "Středozemní",
+      "Tyrhénské",
+      "Jaderské",
+      "Jónské",
+      "Egejské",
+      "Černé",
+      "Azovské",
+      "Keltské",
+      "Norské"
+    ],
+    "wrong": [
+      "Kaspické",
+      "Rudé",
+      "Biskajské",
+      "Lamanšské",
+      "Ladožské",
+      "Botnické",
+      "Beringovo",
+      "Karské",
+      "Ochotské"
+    ]
+  },
+  {
+    "id": 57,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Patří mezi 10 největších měst světa?",
+    "correct": [
+      "Tokio",
+      "Dillí",
+      "Šanghaj",
+      "Sao Paulo",
+      "Ciudad de Mexico",
+      "Káhira",
+      "Bombaj",
+      "Peking",
+      "Dháka",
+      "Ósaka"
+    ],
+    "wrong": [
+      "Istanbul",
+      "Manila",
+      "Kalkata",
+      "Moskva",
+      "Paříž",
+      "Rio de Janeiro",
+      "Bogota",
+      "Jakarta",
+      "Los Angeles",
+      "Wu-chan"
+    ]
+  },
+  {
+    "id": 58,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Leží tento stát v Asii?",
+    "correct": [
+      "Laos",
+      "Nepál",
+      "Bhútán",
+      "Jemen",
+      "Sýrie",
+      "Vietnam",
+      "Izrael",
+      "Omán",
+      "Libanon",
+      "Malajsie"
+    ],
+    "wrong": [
+      "Surinam",
+      "Vanuatu",
+      "Eritrea",
+      "Uganda",
+      "Togo",
+      "Benin",
+      "Libérie",
+      "Tunisko",
+      "Austrálie",
+      "Somálsko"
+    ]
+  },
+  {
+    "id": 59,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Leží tento stát v Africe?",
+    "correct": [
+      "Maroko",
+      "Tunisko",
+      "Eritrea",
+      "Uganda",
+      "Togo",
+      "Benin",
+      "Libérie",
+      "Namibie",
+      "Malawi",
+      "Kamerun"
+    ],
+    "wrong": [
+      "Peru",
+      "Belize",
+      "Guatemala",
+      "Ekvádor",
+      "Nikaragua",
+      "Laos",
+      "Surinam",
+      "Vanuatu",
+      "Jemen",
+      "Sýrie"
+    ]
+  },
+  {
+    "id": 60,
+    "topic": "Praha",
+    "author": "JiB",
+    "question": "Mezi současné či zaniklé usedlosti v Košířích patří:",
+    "correct": [
+      "Bulovka",
+      "Kotlářka",
+      "Kavalírka",
+      "Cibulka",
+      "Šmukýřka",
+      "Turbová",
+      "Poštovka",
+      "Měchurka",
+      "Božinka",
+      "Vojanka",
+      "Klamovka"
+    ],
+    "wrong": [
+      "Andělka",
+      "Balabenka",
+      "Folimanka",
+      "Bertramka",
+      "Bořislavka",
+      "Cikánka",
+      "Habrovka",
+      "Hanspaulka",
+      "Chmelnice",
+      "Ladronka"
+    ]
+  },
+  {
+    "id": 61,
+    "topic": "Hry",
+    "author": "JiB",
+    "question": "Do tarokových karet patří:",
+    "correct": [
+      "Škýz",
+      "Mond",
+      "Pagát",
+      "Trul",
+      "Devatenáctka",
+      "Srdcová jednička",
+      "Třináctka",
+      "Kárový král",
+      "Srdcová dáma",
+      "Listová sedma",
+      "Dvacítka"
+    ],
+    "wrong": [
+      "Mongol",
+      "Smrt",
+      "Tři kříže",
+      "Srdcová sedma",
+      "Kárová desítka",
+      "Kárový svršek",
+      "Srdcová devítka",
+      "Veliké štěstí",
+      "Zamilovaná dvojice",
+      "Žaludová šestka"
+    ]
+  },
+  {
+    "id": 62,
+    "topic": "Hry",
+    "author": "JiB",
+    "question": "Jaké jsou pokerové kombinace?",
+    "correct": [
+      "Dvojice",
+      "Dva páry",
+      "Trojice",
+      "Barva",
+      "Postupka",
+      "Full House",
+      "Poker",
+      "Čistá postupka",
+      "Královská postupka",
+      "Anna Kournikova"
+    ],
+    "wrong": [
+      "Tři páry",
+      "Dvě trojice",
+      "Karta mrtvého Vránka",
+      "K-A-2-3-4",
+      "Čtyři v barvě",
+      "Blef",
+      "Maria Sharapova",
+      "Veliké štěstí",
+      "Omaha",
+      "Žaludová šestka"
+    ]
+  },
+  {
+    "id": 63,
+    "topic": "Technika",
+    "author": "JiB",
+    "question": "Jde o britskou značku automobilů?",
+    "correct": [
+      "Rolls Royce",
+      "Jaguar",
+      "Austin",
+      "Aston Martin",
+      "Vauxhall",
+      "Bentley",
+      "Land Rover",
+      "McLaren",
+      "MG",
+      "Standard-Triumph"
+    ],
+    "wrong": [
+      "BMW",
+      "Seat",
+      "Mini Cooper",
+      "Manchester",
+      "Opel",
+      "Ford",
+      "Chevrolet",
+      "Dodge",
+      "Viper",
+      "Ayrton"
+    ]
+  },
+  {
+    "id": 64,
+    "topic": "Hry",
+    "author": "JiB",
+    "question": "Najdi známé karetní hry:",
+    "correct": [
+      "Mariáš",
+      "Taroky",
+      "Bridž",
+      "Poker",
+      "Prší",
+      "Skat",
+      "Bang!",
+      "Žolíky",
+      "Kanasta",
+      "Vole padni"
+    ],
+    "wrong": [
+      "Tarot",
+      "Svatba",
+      "Mostík",
+      "Jen se leje",
+      "Lejem!",
+      "Dávej ber",
+      "Štramáci",
+      "Šulíni",
+      "Bulánci",
+      "Go"
+    ]
+  },
+  {
+    "id": 65,
+    "topic": "Fauna a flora",
+    "author": "JiB",
+    "question": "Do rodu lamy patří:",
+    "correct": [
+      "Lama krotká",
+      "Guanako",
+      "Alpaka",
+      "Vikuňa",
+      "Huarizo",
+      "Pakovikuňa",
+      "Lamovikuňa"
+    ],
+    "wrong": [
+      "Lama krátká",
+      "Lama menses",
+      "Alpa",
+      "Francovka",
+      "Titicaca",
+      "Guanokuňa",
+      "Alpanako",
+      "Kůň Převalského"
+    ]
+  },
+  {
+    "id": 66,
+    "topic": "Hry",
+    "author": "JiB",
+    "question": "Šachové figurky obsahují:",
+    "correct": [
+      "Král",
+      "Dáma",
+      "Věž",
+      "Střelec",
+      "Kůň",
+      "Pěšec"
+    ],
+    "wrong": [
+      "Vrchní",
+      "Služka",
+      "Obrácená věž",
+      "Zeď",
+      "Plebejec",
+      "Vojín",
+      "Kaprál",
+      "Švidravý lučištník"
+    ]
+  },
+  {
+    "id": 67,
+    "topic": "Česko",
+    "author": "JiB",
+    "question": "Mezi české vojenské hodnosti patří:",
+    "correct": [
+      "Rotný",
+      "Svobodník",
+      "Praporčík",
+      "Poručík",
+      "Kapitán",
+      "Major",
+      "Plukovník",
+      "Generál",
+      "Generálporučík",
+      "Podplukovník"
+    ],
+    "wrong": [
+      "Setník",
+      "Četník",
+      "Rotař",
+      "Desátek",
+      "Podpraporčík",
+      "Seržant",
+      "Voják",
+      "Podmajor",
+      "Podporučík",
+      "Nadplukovník"
+    ]
+  },
+  {
+    "id": 68,
+    "topic": "Praha",
+    "author": "JiB",
+    "question": "Znáte fakulty Univerzity Karlovy?",
+    "correct": [
+      "Právnická fakulta",
+      "2. lékařská fakulta",
+      "Farmaceutická fakulta",
+      "Filosofická fakulta",
+      "Pedagogická fakulta",
+      "Fakulta sociálních věd",
+      "Fakulta humanitních studií",
+      "Katolická teologická fakulta",
+      "Husitská teologická fakulta",
+      "Fakulta tělesné výchovy a sportu"
+    ],
+    "wrong": [
+      "Protestantská teologická fakulta",
+      "4. lékařská fakulta",
+      "Advokátní fakulta",
+      "Matematická fakulta",
+      "Fyzikální fakulta",
+      "Fakulta múzických umění",
+      "Fakulta kritického myšlení",
+      "Fakulta obracečů hamburgerů",
+      "Chemickotechnologická fakulta",
+      "2. pedagogická fakulta"
+    ]
+  },
+  {
+    "id": 69,
+    "topic": "Vesmír",
+    "author": "JiB",
+    "question": "Co je vždy v nižší vzdálenosti od Země než oběžná dráha mezinárodní vesmírné stanice ISS?",
+    "correct": [
+      "Kármanova hranice",
+      "Mezosféra",
+      "Stratosféra",
+      "Troposféra",
+      "Vrchol Mount Everestu",
+      "Mezopauza",
+      "Vojenská stíhací letadla",
+      "Meteorologické balóny"
+    ],
+    "wrong": [
+      "Měsíc",
+      "Geostacionární družice",
+      "Exosféra",
+      "Termopauza",
+      "Mars",
+      "Kuiperův pás",
+      "Družice Galileo",
+      "Družice GPS",
+      "Průlet komety",
+      "Termosféra"
+    ]
+  },
+  {
+    "id": 70,
+    "topic": "Česko",
+    "author": "JiB",
+    "question": "Co se stalo během vlády Karla IV.?",
+    "correct": [
+      "Pohřeb Jana Lucemburského",
+      "Vytvoření svatováclavské koruny",
+      "Založení Univerzity Karlovy",
+      "Smrt císaře Ludvíka Bavorského",
+      "Dokončení stavby hradu Karlštejn",
+      "Stavba hradu Kašperk",
+      "Smrt Urbana V., 200. papeže",
+      "Založení říše Ming",
+      "První morová epidemie",
+      "Boccaccio sepsal Dekameron"
+    ],
+    "wrong": [
+      "Kostnický koncil",
+      "Marco Polo v Číně",
+      "Devátá křížová výprava",
+      "Zlatá bula sicilská",
+      "Vymření Přemyslovců",
+      "Bitva u Kresčaku",
+      "Bitva na Kosově poli",
+      "Počátek Stoleté války",
+      "Vymření Arpádovců",
+      "Konec Stoleté války"
+    ]
+  },
+  {
+    "id": 71,
+    "topic": "Česko",
+    "author": "JiB",
+    "question": "Jde o oficiálně používanou zkratku veřejné vysoké školy v ČR?",
+    "correct": [
+      "JAMU",
+      "AVU",
+      "ČVUT",
+      "MENDELU",
+      "TUL",
+      "UPCE",
+      "UTB",
+      "VŠE",
+      "VUT",
+      "ZČU"
+    ],
+    "wrong": [
+      "MUBR",
+      "LFUK",
+      "HNOJU",
+      "JUBUD",
+      "UBUD",
+      "VŠPTJ",
+      "VŠLE",
+      "JELEN",
+      "NELEJ",
+      "KUP"
+    ]
+  },
+  {
+    "id": 72,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Leží tento stát na více světadílech?",
+    "correct": [
+      "Egypt",
+      "Rusko",
+      "Turecko",
+      "Gruzie",
+      "Kazachstán",
+      "Ázerbajdžán",
+      "Panama",
+      "Francie",
+      "Nizozemské království"
+    ],
+    "wrong": [
+      "Trinidad a Tobago",
+      "USA",
+      "Ekvádor",
+      "Nikaragua",
+      "Čína",
+      "Kyrgyzstán",
+      "Pákistán",
+      "Indie",
+      "Mexiko"
+    ]
+  }
+]
