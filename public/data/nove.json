@@ -1,0 +1,1089 @@
+  [
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jedná se o známého vojevůdce?",
+      "correct": [
+        "Napoleon Bonaparte",
+        "Ulysses Grant",
+        "Dwight Eisenhower",
+        "Robert E. Lee",
+        "Bednard Montgomery",
+        "Josef Václav Radecký",
+        "Šaka Zulu",
+        "Prokop Holý"
+      ],
+      "wrong": [
+        "Reinhold Messner",
+        "Michail Fridman",
+        "William Goldsmith",
+        "Ed Viesturs",
+        "Julius Makedonský",
+        "Josef Václav Žižka",
+        "Prokop Matrace",
+        "Marcus Tullius Cicero"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Patří mezi 10 nejvyšších vodopádů světa?",
+      "correct": [
+        "Angel",
+        "Tugela",
+        "Olo'upena",
+        "James Bruce Falls",
+        "Vinnufallet",
+        "Yumbilla",
+        "Browne Falls"
+      ],
+      "wrong": [
+        "Niagarské",
+        "Gocta",
+        "Yosemite",
+        "Viktoriiny",
+        "Agua Azul",
+        "Kjelfossen",
+        "Kjeragfossen",
+        "Harrachovský"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Vyberte vesmírné stanice",
+      "correct": [
+        "ISS",
+        "Mir",
+        "Skylab",
+        "Tiangong (Tchien-kung)",
+        "Saljut",
+        "Almaz"
+      ],
+      "wrong": [
+        "Voyager",
+        "Progress",
+        "Šen-čou",
+        "Lunera",
+        "Mariner",
+        "Concordia",
+        "Zvezda",
+        "Freedom"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jedná se o hindské božstvo?",
+      "correct": [
+        "Višnu",
+        "Ganéša",
+        "Sarasvatí",
+        "Krišna",
+        "Kálí",
+        "Šiva",
+        "Indra",
+        "Agni",
+        "Brahmá"
+      ],
+      "wrong": [
+        "Anubis",
+        "Osho",
+        "Thor",
+        "Loki",
+        "Amaterasu",
+        "Nirvána",
+        "Serendipity",
+        "Trimúrti"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jedná se o monarchii?",
+      "correct": [
+        "Norsko",
+        "Japonsko",
+        "Saúdská Arábie",
+        "Španělsko",
+        "Malajsie",
+        "Belgie",
+        "Jordánsko",
+        "Thajsko",
+        "Lesotho",
+        "Nizozemsko"
+      ],
+      "wrong": [
+        "Indie",
+        "Itálie",
+        "Egypt",
+        "Mexiko",
+        "Libanon",
+        "Kanada",
+        "Benin",
+        "Tunisko"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jedná se o označení dohody o volném obchodu?",
+      "correct": [
+        "TTIP",
+        "SAFTA",
+        "NAFTA",
+        "CETA",
+        "MERCOSUR"
+      ],
+      "wrong": [
+        "NATO",
+        "NASA",
+        "ANZAC",
+        "WHAT",
+        "WHO",
+        "FETA",
+        "RASTA"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Sport",
+      "author": "JiB",
+      "question": "Patří mezi disciplíny sportovní gymnastiky mužů?",
+      "correct": [
+        "Kruhy",
+        "Prostná",
+        "Kůň našíř",
+        "Bradla",
+        "Hrazda",
+        "Přeskok",
+        "Víceboj"
+      ],
+      "wrong": [
+        "Kladina",
+        "Stuha",
+        "Šplh",
+        "Trampolína",
+        "Hula hop",
+        "Koza",
+        "Kůň nadél",
+        "Salta"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jde o odrůdu červeného vína?",
+      "correct": [
+        "Syrah/Shiraz",
+        "Rulandské modré",
+        "André",
+        "Dornfelder",
+        "Merlot",
+        "Primitivo",
+        "Alibernet",
+        "Malbec"
+      ],
+      "wrong": [
+        "Tramín červený",
+        "Rulandské červené",
+        "Chardonnay",
+        "Muškát",
+        "Veltlínské červené ranné",
+        "Sauvignon",
+        "Beaujolais",
+        "Svatomartinské"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Obsahuje vlajka toto státu jen červenou, modrou a bílou?",
+      "correct": [
+        "Norsko",
+        "Velká Británie",
+        "Kuba",
+        "Thajsko",
+        "Nizozemsko",
+        "Česko",
+        "Island"
+      ],
+      "wrong": [
+        "Filipíny",
+        "Jižní Korea",
+        "Haiti",
+        "Malajsie",
+        "Estonsko",
+        "Arménie",
+        "Seychely",
+        "Turkmenistán"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jde o fiktivní postavu soukromého detektiva?",
+      "correct": [
+        "Peter Gunn",
+        "Nero Wolfe",
+        "Kinsey Millhone",
+        "Sam Spade",
+        "Philip Marlowe",
+        "Sherlock Holmes",
+        "Hercule Poirot"
+      ],
+      "wrong": [
+        "Peter Falk",
+        "Alan Blumlein",
+        "William Lee",
+        "Robert Metcalfe",
+        "Claude Chappe",
+        "Ed Lowe",
+        "Robert Galbraith",
+        "Harry Basf"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Geografie",
+      "author": "JiB",
+      "question": "Jde o poušť?",
+      "correct": [
+        "Gobi",
+        "Sahara",
+        "Thar",
+        "Karakum",
+        "Údolí smrti",
+        "Atacama",
+        "Taklamakan",
+        "Kalahari"
+      ],
+      "wrong": [
+        "Taghit",
+        "Vádí",
+        "Thor",
+        "Gábi",
+        "Sibiř",
+        "Altaj",
+        "Navagio",
+        "Copacabana"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jde o bicí nástroj?",
+      "correct": [
+        "Marimba",
+        "Djembe",
+        "Vibrafon",
+        "Tympán",
+        "Triangl",
+        "Frigideira",
+        "Vozembouch",
+        "Xylofon"
+      ],
+      "wrong": [
+        "Pikola",
+        "Cimbál",
+        "Balalajka",
+        "Didgeridoo",
+        "Mandriola",
+        "Olifant",
+        "Klarinet",
+        "Aulos"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jde o stanici metra v Londýně?",
+      "correct": [
+        "Temple",
+        "Waterloo",
+        "Royal Oak",
+        "Embankment",
+        "Bond Street",
+        "Barons Court",
+        "Holborn"
+      ],
+      "wrong": [
+        "Abercomby",
+        "Barbarian",
+        "Union Station",
+        "Grand Park",
+        "Santa Monica",
+        "Harthof",
+        "Tierpark",
+        "Treptower Park"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jde o vlak schopný jet rychlostí přes 300 km/h?",
+      "correct": [
+        "ICE 3",
+        "Eurostar",
+        "Thalys",
+        "ETR 500",
+        "Velaro E",
+        "TGV",
+        "Šinkansen"
+      ],
+      "wrong": [
+        "Pendolino",
+        "Raljet",
+        "Stephenson",
+        "Ringhoffer",
+        "SuperCity",
+        "TMBK",
+        "EET-01",
+        "Ghan"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Geografie",
+      "author": "JiB",
+      "question": "Patří mezi 10 nejvyšších budov světa (2025)?",
+      "correct": [
+        "Burj Khalifa",
+        "Merdeka 118",
+        "Shanghai Tower",
+        "Lotte World Tower",
+        "One World Trade Center",
+        "Goldin Finance 117",
+        "Ping An Finance Centre"
+      ],
+      "wrong": [
+        "Tchaj-pej 101",
+        "International Commerce Centre",
+        "Central Park Tower",
+        "Landmark 81",
+        "Marina 101",
+        "One Vanderbilt",
+        "Al Hamra Tower",
+        "International Finance Centre"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jde o pamětihodnost ve Florencii?",
+      "correct": [
+        "Galerie Uffizi",
+        "Ponte Vecchio",
+        "Palazzo Vecchio",
+        "Santa Reparata",
+        "Baptiserium San Giovanni",
+        "Piazza del Duomo",
+        "Zvonice Campanile"
+      ],
+      "wrong": [
+        "Piazza dei Miracoli",
+        "Šikmá věž",
+        "Bocca della Verita",
+        "Malba Poslední večeře",
+        "Věž Guinigi",
+        "Koloseum",
+        "Gaudího park",
+        "Tempranillo"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Patří mezi deset největších ostrovů?",
+      "correct": [
+        "Honšú",
+        "Velká Británie",
+        "Madagaskar",
+        "Grónsko",
+        "Borneo",
+        "Viktoriin ostrov",
+        "Sumatra",
+        "Baffinův ostrov"
+      ],
+      "wrong": [
+        "Jáva",
+        "Mauricius",
+        "Kuba",
+        "Kréta",
+        "Island",
+        "Newfoundland",
+        "Irsko",
+        "Hokkaidó"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Platí v tomto státě greenwichský čas?",
+      "correct": [
+        "Island",
+        "Ghana",
+        "Mali",
+        "Mauretánie",
+        "Irsko",
+        "Portugalsko",
+        "Senegal",
+        "Pobřeží slonoviny"
+      ],
+      "wrong": [
+        "Švýcarsko",
+        "Bulharsko",
+        "Jihoafrická republika",
+        "Švýcarsko",
+        "Alžírsko",
+        "Namibie",
+        "Angola",
+        "Kapverdy"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Je v této zemi oficiální měnou euro (k r. 2020)?",
+      "correct": [
+        "Malta",
+        "Kypr",
+        "Finsko",
+        "Slovinsko",
+        "Slovensko",
+        "Portugalsko",
+        "Bulharsko",
+        "Estonsko"
+      ],
+      "wrong": [
+        "Švédsko",
+        "Dánsko",
+        "Polsko",
+        "Maďarsko",
+        "Česko",
+        "Norsko",
+        "Švýcarsko",
+        "Bělorusko"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Leží tato země u Středozemního moře?",
+      "correct": [
+        "Kypr",
+        "Turecko",
+        "Malta",
+        "Tunisko",
+        "Alžírsko",
+        "Bosna a Hercegovina",
+        "Egypt"
+      ],
+      "wrong": [
+        "Bulharsko",
+        "Jordánsko",
+        "Severní Makedonie",
+        "Srbsko",
+        "Irák",
+        "Portugalsko",
+        "Vatikán",
+        "Libye"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jde o nejvyšší horu svého kontinentu?",
+      "correct": [
+        "Kilimandžáro",
+        "Denali",
+        "Aconcagua",
+        "Vinson Massif",
+        "Mount Everest",
+        "Puncak Jaya"
+      ],
+      "wrong": [
+        "Zugspitze",
+        "Matterhorn",
+        "Ararat",
+        "Aoraki",
+        "Licancabur",
+        "Ben Nevis",
+        "Kančendženga",
+        "Titicaca"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Geografie",
+      "author": "JiB",
+      "question": "Jde o aglomeraci s 20+ miliony obyvatel?",
+      "correct": [
+        "Tokio",
+        "Dillí",
+        "Dháka",
+        "Šanghaj",
+        "Sao Paulo",
+        "Mexico City",
+        "Káhira",
+        "Peking",
+        "Jakarta"
+      ],
+      "wrong": [
+        "Kinshasa",
+        "Buenos Aires",
+        "Los Angeles",
+        "Moskva",
+        "Kalkata",
+        "New York",
+        "Istanbul",
+        "Bogota"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jezdí v tomto městě tramvaj (k r. 2024)?",
+      "correct": [
+        "Rotterdam",
+        "Pchjongjang",
+        "Instabul",
+        "Vídeň",
+        "Lisabon",
+        "Ostrava",
+        "Edinburgh"
+      ],
+      "wrong": [
+        "Sao Paulo",
+        "Almaty",
+        "Perth",
+        "Kodaň",
+        "Hradec Králové",
+        "Dubaj",
+        "Madrid",
+        "Bombaj"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jde o slovenský kraj?",
+      "correct": [
+        "Bratislavský",
+        "Trnavský",
+        "Trenčínský",
+        "Nitranský",
+        "Žilinský",
+        "Prešovský",
+        "Banskobystrický",
+        "Košický"
+      ],
+      "wrong": [
+        "Popradský",
+        "Stredoslovenský",
+        "Trebišovský",
+        "Trpišovský",
+        "Zvolenský",
+        "Martinský",
+        "Prievidzský",
+        "Považskobystrický"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Leží tento stát na rovníku?",
+      "correct": [
+        "Somálsko",
+        "Brazílie",
+        "Kolumbie",
+        "Indonésie",
+        "Keňa",
+        "Gabon",
+        "Ekvádor"
+      ],
+      "wrong": [
+        "Zimbabwe",
+        "Malajsie",
+        "Chile",
+        "Tanzánie",
+        "Maledivy",
+        "Indie",
+        "Singapur",
+        "Rovníková Guinea",
+        "Jemen"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Leží tento stát pouze na severní polokouli?",
+      "correct": [
+        "Laos",
+        "Nigérie",
+        "Mali",
+        "Venezuela",
+        "Panama",
+        "Čad",
+        "Kamerun"
+      ],
+      "wrong": [
+        "Gabon",
+        "Rwanda",
+        "Papua Nová Guinea",
+        "Indonésie",
+        "Peru",
+        "Angola",
+        "Somálsko",
+        "Tanzánie"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jezdí v tomto městě metro?",
+      "correct": [
+        "Káhira",
+        "Kodaň",
+        "Smyrna",
+        "Toulouse",
+        "Rotterdam",
+        "Boston",
+        "Valencie"
+      ],
+      "wrong": [
+        "Záhřeb",
+        "Nairobi",
+        "Antananarivo",
+        "La Paz",
+        "Bordeaux",
+        "Edinburgh",
+        "Jacksonville",
+        "Dar es Salaam"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Patří mezi deset nejdelších řek světa?",
+      "correct": [
+        "Nil",
+        "Amazonka",
+        "Kongo",
+        "Ob",
+        "Jang-c'-tiang",
+        "Jenisej",
+        "Mississippi"
+      ],
+      "wrong": [
+        "Mekong",
+        "Volha",
+        "Zambezi",
+        "Niger",
+        "Mackenzie",
+        "Indus",
+        "Yukon"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jezdí se v této zemi vlevo?",
+      "correct": [
+        "Singapur",
+        "Keňa",
+        "Nepál",
+        "Japonsko",
+        "Jihoafrická republika",
+        "Malta",
+        "Kypr",
+        "Indie",
+        "Jamajka"
+      ],
+      "wrong": [
+        "Island",
+        "Bulharsko",
+        "Vietnam",
+        "Chile",
+        "Angola",
+        "Turkmenistán",
+        "Azerbajdžán"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "mají obyvatelé této země zákaz pít alkohol?",
+      "correct": [
+        "Kuvajt",
+        "Afghanistán",
+        "Súdán",
+        "Saudská Arábie",
+        "Libye",
+        "Somálsko"
+      ],
+      "wrong": [
+        "Angola",
+        "Libanon",
+        "Omán",
+        "Srí Lanka",
+        "Nigérie",
+        "Honduras",
+        "Sýrie",
+        "Indonésie"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Přistál tento člověk na Měsíci?",
+      "correct": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Pete Conrad",
+        "Alan Bean",
+        "Alan Shepard",
+        "James Irwin",
+        "Edgar Mitchell",
+        "Harrison Schmitt",
+        "Eugene Cernan"
+      ],
+      "wrong": [
+        "Vladimír Remek",
+        "Jurij Gagarin",
+        "Valentina Těreškovová",
+        "John Glenn",
+        "Louis Armstrong",
+        "lance Armstrong",
+        "Scott Young",
+        "Sunita Williams",
+        "Sally Ride"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Kinematografie",
+      "author": "JiB",
+      "question": "Které z těchto filmů mají v názvu modrou barvu?",
+      "correct": [
+        "... anděl",
+        "... laguna",
+        "... samet",
+        "... svět",
+        "... motýl",
+        "Tři barvy: ...",
+        "... Max"
+      ],
+      "wrong": [
+        "... labuť",
+        "... Cadillac",
+        "... drak",
+        "... míle",
+        "... jestřáb sestřelen",
+        "Červený a ...",
+        "Smažená ... rajčata",
+        "Černá kočka, ... kocour"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Hrál za tento klub David Beckham?",
+      "correct": [
+        "Tottenham Hotspur",
+        "Manchester United",
+        "Preston North End",
+        "Real Madrid",
+        "LA Galaxy",
+        "AC Milán",
+        "Paris Saint-Germain"
+      ],
+      "wrong": [
+        "Bayern Mnichov",
+        "Chelsea",
+        "FC Barcelona",
+        "Juventus Turín",
+        "Inter Miami",
+        "La Pulga",
+        "Real Sociedad",
+        "Sevilla FC"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Leží toto město na řece Dunaj?",
+      "correct": [
+        "Ulm",
+        "Bratislava",
+        "Pasov",
+        "Vídeň",
+        "Budapešť",
+        "Bělehrad",
+        "Novi Sad",
+        "Linz"
+      ],
+      "wrong": [
+        "Augsburg",
+        "Bukurešť",
+        "Salzburg",
+        "Nitra",
+        "Miskolc",
+        "Záhřeb",
+        "Sarajevo",
+        "Sofie"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Hrál tento herec ve filmu Dannyho parťáci (Ocean's Eleven)?",
+      "correct": [
+        "George Clooney",
+        "Brad Pitt",
+        "Andy Garcia",
+        "Julia Roberts",
+        "Carl Reiner",
+        "Bernie Mac",
+        "Casey Affleck"
+      ],
+      "wrong": [
+        "Ben Affleck",
+        "Tom Cruise",
+        "Johnny Depp",
+        "Michael Caine",
+        "Ton Hanks",
+        "Samuel L. Jackson",
+        "NPenélope Cruz",
+        "Sophia Loren"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jedná se o značku šampaňského?",
+      "correct": [
+        "Ruinart",
+        "Taittinger",
+        "Pommery",
+        "Cattier",
+        "Henriot",
+        "Moët & Chandon",
+        "Veuve Clicquot"
+      ],
+      "wrong": [
+        "Cava",
+        "lagrange",
+        "Vosgros",
+        "Pouilly-Fumé",
+        "Haut Brion",
+        "St. Rémy",
+        "Bohemia Sekt",
+        "Rioja"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Je v této zemi úředním jazykem francouzština?",
+      "correct": [
+        "Belgie",
+        "Haiti",
+        "Kanada",
+        "Mali",
+        "Senegal",
+        "Švýcarsko",
+        "Maroko",
+        "Kamerun"
+      ],
+      "wrong": [
+        "Súdán",
+        "Lichtenštejnsko",
+        "Bahamy",
+        "Namibie",
+        "Vietnam",
+        "Tanzanie",
+        "Thajsko"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jedná se o film s Harrisonem Fordem?",
+      "correct": [
+        "Dobyvatelé ztracené archy",
+        "Firewall",
+        "Star Wars: Nová naděje",
+        "Uprchlík",
+        "48 hodin v Paříži",
+        "Blade Runner",
+        "Vysoká hra patriotů"
+      ],
+      "wrong": [
+        "Kmotr",
+        "Spy Game",
+        "Firma",
+        "Hra",
+        "96 hodin",
+        "Kingsman: Tajná služba",
+        "Butch Cassidy a Sundance Kid",
+        "Transformers"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jedná se o název hvězdy?",
+      "correct": [
+        "Sirius",
+        "Betelgeuze",
+        "Vega",
+        "Pollux",
+        "Castor",
+        "Altair",
+        "Deneb"
+      ],
+      "wrong": [
+        "Montana",
+        "Byldha",
+        "Beetlejuice",
+        "Dahlia",
+        "Rumplcimprcampr",
+        "Nova",
+        "Securis",
+        "Cassiopeia"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jedná se o kasino v Las Vegas?",
+      "correct": [
+        "The Venetian",
+        "Casino Royale",
+        "The Linq",
+        "Flamingo",
+        "Paris",
+        "Monte Carlo",
+        "Tropicana"
+      ],
+      "wrong": [
+        "GMG Grand",
+        "The Mirrors",
+        "Rome",
+        "Prague",
+        "Sun City",
+        "Marina Bay",
+        "Canal Grande"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jedná se o křesťanské poutní místo?",
+      "correct": [
+        "Lurdy",
+        "Jeruzalém",
+        "Santiago di Compostela",
+        "Fátima",
+        "Myra",
+        "Banneaux"
+      ],
+      "wrong": [
+        "Banlieue",
+        "Gredos",
+        "Saint-Trias",
+        "Mekka",
+        "Medina",
+        "Karbalá",
+        "Mathura",
+        "Isa"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Geografie",
+      "author": "JiB",
+      "question": "Jedná se o aktivní sopku?",
+      "correct": [
+        "Kilauea (Havaj)",
+        "Etna (Itálie)",
+        "Stromboli (Itálie)",
+        "Sakurajima (Japonsko)",
+        "Merapi (Indonésie)",
+        "Popocatépetl (Mexiko)",
+        "Erebus (Antarktida)"
+      ],
+      "wrong": [
+        "Kilimandžáro (Tanzanie)",
+        "Shiprock (USA)",
+        "Mont Blanc (Francie)",
+        "Elbrus (Rusko)",
+        "Ben Nevis (Skotsko)",
+        "Zuidwal (Nizozemí)",
+        "Milešovka (Česko)"
+      ]
+    },
+    {
+      "id": 0,
+      "topic": "Desítka",
+      "author": "JiB",
+      "question": "Jde o stát s více než 100 miliony obyvateli (k r. 2025)?",
+      "correct": [
+        "Japonsko",
+        "Brazílie",
+        "Indonésie",
+        "Mexiko",
+        "Pákistán",
+        "Nigérie",
+        "Egypt",
+        "Filipíny"
+      ],
+      "wrong": [
+        "Turecko",
+        "Německo",
+        "Irán",
+        "Thajsko",
+        "Česko",
+        "Keňa",
+        "Kolumbie",
+        "Alžírsko"
+      ]
+    }
+  ]

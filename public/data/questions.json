@@ -111,18 +111,16 @@
       "Altaj",
       "Ťan-šan",
       "Hindúkuš",
-      "Kunlun",
-      "Ural (částečně)"
+      "Kunlun"
     ],
     "wrong": [
       "Andy",
       "Alpy",
       "Skalnaté hory",
-      "Kavkaz (částečně)",
       "Apalačské pohoří",
       "Atlas",
       "Kordillery",
-      "Pireneje"
+      "Pyreneje"
     ]
   },
   {
@@ -1040,6 +1038,645 @@
       "Teplota vody je zde trvale pod 10°C",
       "Je tvořen převážně sladkou vodou",
       "Žijí zde zejména polární medvědi a tučňáci"
+    ]
+  },
+  {
+    "id": 51,
+    "topic": "Lidské tělo",
+    "author": "JiB",
+    "question": "Mezi párové orgány v lidském těle patří:",
+    "correct": [
+      "Vaječníky",
+      "Bubínky",
+      "Varlata",
+      "Ledviny",
+      "Plíce",
+      "Nadledviny"
+    ],
+    "wrong": [
+      "Játra",
+      "Srdce",
+      "Sleziny",
+      "Mozky",
+      "Slinivky",
+      "Dělohy",
+      "Brzlíky",
+      "Penisy",
+      "Močové měchýře"
+    ]
+  },
+  {
+    "id": 52,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Patří mezi 10 největších hor světa?",
+    "correct": [
+      "K2",
+      "Kančendženga",
+      "Lhoce",
+      "Makalu",
+      "Čo Oju",
+      "Dhaulágirí",
+      "Manáslu",
+      "Nanga Parbat",
+      "Annapurna"
+    ],
+    "wrong": [
+      "Gašerbrum I",
+      "Gašerbrum II",
+      "Broad Peak",
+      "Šiša Pangma",
+      "Annapurna II",
+      "Kilimandžáro",
+      "Čobolaguna",
+      "Nupce",
+      "Mount McKinley"
+    ]
+  },
+  {
+    "id": 53,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Jde o hlavní město evropského státu?",
+    "correct": [
+      "Riga",
+      "Madrid",
+      "Oslo",
+      "Monaco",
+      "Ljublana",
+      "Kyjev",
+      "Minsk",
+      "Helsinki",
+      "Tiraňa",
+      "Skopje",
+      "Sofie",
+      "Podgorica"
+    ],
+    "wrong": [
+      "Bonn",
+      "Lima",
+      "Ženeva",
+      "Istanbul",
+      "Rotterdam",
+      "Koblenz",
+      "Terst",
+      "Mostar",
+      "Kaunas",
+      "Kaliningrad",
+      "Tripolis"
+    ]
+  },
+  {
+    "id": 54,
+    "topic": "Matematika",
+    "author": "JiB",
+    "question": "Jde o prvočíslo?",
+    "correct": [
+      "2",
+      "3",
+      "5",
+      "17",
+      "19",
+      "173",
+      "271",
+      "199",
+      "4091",
+      "89"
+    ],
+    "wrong": [
+      "1",
+      "77",
+      "143",
+      "4",
+      "15",
+      "49",
+      "9",
+      "2048",
+      "12",
+      "69"
+    ]
+  },
+  {
+    "id": 55,
+    "topic": "IT",
+    "author": "JiB",
+    "question": "Umíš poznat známé programátory?",
+    "correct": [
+      "Bill Gates",
+      "Mark Zuckerberg",
+      "Barbara Liskov",
+      "Dennis Ritchie",
+      "Brian Kernighan",
+      "Guido van Rossum",
+      "Linus Torvalds",
+      "Ada Lovelace",
+      "Edsger Dijkstra"
+    ],
+    "wrong": [
+      "David Beckham",
+      "Tupac Shakur",
+      "Nipsey Hussle",
+      "Danny Rodriguez",
+      "Stephen Jobas",
+      "Hare Krisna",
+      "Lindsey Vonn",
+      "Mark Gates",
+      "George Soros"
+    ]
+  },
+  {
+    "id": 56,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Jde o moře u evropských břehů?",
+    "correct": [
+      "Středozemní",
+      "Tyrhénské",
+      "Jaderské",
+      "Jónské",
+      "Egejské",
+      "Černé",
+      "Azovské",
+      "Keltské",
+      "Norské"
+    ],
+    "wrong": [
+      "Kaspické",
+      "Rudé",
+      "Biskajské",
+      "Lamanšské",
+      "Ladožské",
+      "Botnické",
+      "Beringovo",
+      "Karské",
+      "Ochotské"
+    ]
+  },
+  {
+    "id": 57,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Patří mezi 10 největších měst světa?",
+    "correct": [
+      "Tokio",
+      "Dillí",
+      "Šanghaj",
+      "Sao Paulo",
+      "Ciudad de Mexico",
+      "Káhira",
+      "Bombaj",
+      "Peking",
+      "Dháka",
+      "Ósaka"
+    ],
+    "wrong": [
+      "Istanbul",
+      "Manila",
+      "Kalkata",
+      "Moskva",
+      "Paříž",
+      "Rio de Janeiro",
+      "Bogota",
+      "Jakarta",
+      "Los Angeles",
+      "Wu-chan"
+    ]
+  },
+  {
+    "id": 58,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Leží tento stát v Asii?",
+    "correct": [
+      "Laos",
+      "Nepál",
+      "Bhútán",
+      "Jemen",
+      "Sýrie",
+      "Vietnam",
+      "Izrael",
+      "Omán",
+      "Libanon",
+      "Malajsie"
+    ],
+    "wrong": [
+      "Surinam",
+      "Vanuatu",
+      "Eritrea",
+      "Uganda",
+      "Togo",
+      "Benin",
+      "Libérie",
+      "Tunisko",
+      "Austrálie",
+      "Somálsko"
+    ]
+  },
+  {
+    "id": 59,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Leží tento stát v Africe?",
+    "correct": [
+      "Maroko",
+      "Tunisko",
+      "Eritrea",
+      "Uganda",
+      "Togo",
+      "Benin",
+      "Libérie",
+      "Namibie",
+      "Malawi",
+      "Kamerun"
+    ],
+    "wrong": [
+      "Peru",
+      "Belize",
+      "Guatemala",
+      "Ekvádor",
+      "Nikaragua",
+      "Laos",
+      "Surinam",
+      "Vanuatu",
+      "Jemen",
+      "Sýrie"
+    ]
+  },
+  {
+    "id": 60,
+    "topic": "Praha",
+    "author": "JiB",
+    "question": "Mezi současné či zaniklé usedlosti v Košířích patří:",
+    "correct": [
+      "Bulovka",
+      "Kotlářka",
+      "Kavalírka",
+      "Cibulka",
+      "Šmukýřka",
+      "Turbová",
+      "Poštovka",
+      "Měchurka",
+      "Božinka",
+      "Vojanka",
+      "Klamovka"
+    ],
+    "wrong": [
+      "Andělka",
+      "Balabenka",
+      "Folimanka",
+      "Bertramka",
+      "Bořislavka",
+      "Cikánka",
+      "Habrovka",
+      "Hanspaulka",
+      "Chmelnice",
+      "Ladronka"
+    ]
+  },
+  {
+    "id": 61,
+    "topic": "Hry",
+    "author": "JiB",
+    "question": "Do tarokových karet patří:",
+    "correct": [
+      "Škýz",
+      "Mond",
+      "Pagát",
+      "Trul",
+      "Devatenáctka",
+      "Srdcová jednička",
+      "Třináctka",
+      "Kárový král",
+      "Srdcová dáma",
+      "Listová sedma",
+      "Dvacítka"
+    ],
+    "wrong": [
+      "Mongol",
+      "Smrt",
+      "Tři kříže",
+      "Srdcová sedma",
+      "Kárová desítka",
+      "Kárový svršek",
+      "Srdcová devítka",
+      "Veliké štěstí",
+      "Zamilovaná dvojice",
+      "Žaludová šestka"
+    ]
+  },
+  {
+    "id": 62,
+    "topic": "Hry",
+    "author": "JiB",
+    "question": "Jaké jsou pokerové kombinace?",
+    "correct": [
+      "Dvojice",
+      "Dva páry",
+      "Trojice",
+      "Barva",
+      "Postupka",
+      "Full House",
+      "Poker",
+      "Čistá postupka",
+      "Královská postupka",
+      "Anna Kournikova"
+    ],
+    "wrong": [
+      "Tři páry",
+      "Dvě trojice",
+      "Karta mrtvého Vránka",
+      "K-A-2-3-4",
+      "Čtyři v barvě",
+      "Blef",
+      "Maria Sharapova",
+      "Veliké štěstí",
+      "Omaha",
+      "Žaludová šestka"
+    ]
+  },
+  {
+    "id": 63,
+    "topic": "Technika",
+    "author": "JiB",
+    "question": "Jde o britskou značku automobilů?",
+    "correct": [
+      "Rolls Royce",
+      "Jaguar",
+      "Austin",
+      "Aston Martin",
+      "Vauxhall",
+      "Bentley",
+      "Land Rover",
+      "McLaren",
+      "MG",
+      "Standard-Triumph"
+    ],
+    "wrong": [
+      "BMW",
+      "Seat",
+      "Mini Cooper",
+      "Manchester",
+      "Opel",
+      "Ford",
+      "Chevrolet",
+      "Dodge",
+      "Viper",
+      "Ayrton"
+    ]
+  },
+  {
+    "id": 64,
+    "topic": "Hry",
+    "author": "JiB",
+    "question": "Najdi známé karetní hry:",
+    "correct": [
+      "Mariáš",
+      "Taroky",
+      "Bridž",
+      "Poker",
+      "Prší",
+      "Skat",
+      "Bang!",
+      "Žolíky",
+      "Kanasta",
+      "Vole padni"
+    ],
+    "wrong": [
+      "Tarot",
+      "Svatba",
+      "Mostík",
+      "Jen se leje",
+      "Lejem!",
+      "Dávej ber",
+      "Štramáci",
+      "Šulíni",
+      "Bulánci",
+      "Go"
+    ]
+  },
+  {
+    "id": 65,
+    "topic": "Fauna a flora",
+    "author": "JiB",
+    "question": "Do rodu lamy patří:",
+    "correct": [
+      "Lama krotká",
+      "Guanako",
+      "Alpaka",
+      "Vikuňa",
+      "Huarizo",
+      "Pakovikuňa",
+      "Lamovikuňa"
+    ],
+    "wrong": [
+      "Lama krátká",
+      "Lama menses",
+      "Alpa",
+      "Francovka",
+      "Titicaca",
+      "Guanokuňa",
+      "Alpanako",
+      "Kůň Převalského"
+    ]
+  },
+  {
+    "id": 66,
+    "topic": "Hry",
+    "author": "JiB",
+    "question": "Šachové figurky obsahují:",
+    "correct": [
+      "Král",
+      "Dáma",
+      "Věž",
+      "Střelec",
+      "Kůň",
+      "Pěšec"
+    ],
+    "wrong": [
+      "Vrchní",
+      "Služka",
+      "Obrácená věž",
+      "Zeď",
+      "Plebejec",
+      "Vojín",
+      "Kaprál",
+      "Švidravý lučištník"
+    ]
+  },
+  {
+    "id": 67,
+    "topic": "Česko",
+    "author": "JiB",
+    "question": "Mezi české vojenské hodnosti patří:",
+    "correct": [
+      "Rotný",
+      "Svobodník",
+      "Praporčík",
+      "Poručík",
+      "Kapitán",
+      "Major",
+      "Plukovník",
+      "Generál",
+      "Generálporučík",
+      "Podplukovník"
+    ],
+    "wrong": [
+      "Setník",
+      "Četník",
+      "Rotař",
+      "Desátek",
+      "Podpraporčík",
+      "Seržant",
+      "Voják",
+      "Podmajor",
+      "Podporučík",
+      "Nadplukovník"
+    ]
+  },
+  {
+    "id": 68,
+    "topic": "Praha",
+    "author": "JiB",
+    "question": "Znáte fakulty Univerzity Karlovy?",
+    "correct": [
+      "Právnická fakulta",
+      "2. lékařská fakulta",
+      "Farmaceutická fakulta",
+      "Filosofická fakulta",
+      "Pedagogická fakulta",
+      "Fakulta sociálních věd",
+      "Fakulta humanitních studií",
+      "Katolická teologická fakulta",
+      "Husitská teologická fakulta",
+      "Fakulta tělesné výchovy a sportu"
+    ],
+    "wrong": [
+      "Protestantská teologická fakulta",
+      "4. lékařská fakulta",
+      "Advokátní fakulta",
+      "Matematická fakulta",
+      "Fyzikální fakulta",
+      "Fakulta múzických umění",
+      "Fakulta kritického myšlení",
+      "Fakulta obracečů hamburgerů",
+      "Chemickotechnologická fakulta",
+      "2. pedagogická fakulta"
+    ]
+  },
+  {
+    "id": 69,
+    "topic": "Vesmír",
+    "author": "JiB",
+    "question": "Co je vždy v nižší vzdálenosti od Země než oběžná dráha mezinárodní vesmírné stanice ISS?",
+    "correct": [
+      "Kármanova hranice",
+      "Mezosféra",
+      "Stratosféra",
+      "Troposféra",
+      "Vrchol Mount Everestu",
+      "Mezopauza",
+      "Vojenská stíhací letadla",
+      "Meteorologické balóny"
+    ],
+    "wrong": [
+      "Měsíc",
+      "Geostacionární družice",
+      "Exosféra",
+      "Termopauza",
+      "Mars",
+      "Kuiperův pás",
+      "Družice Galileo",
+      "Družice GPS",
+      "Průlet komety",
+      "Termosféra"
+    ]
+  },
+  {
+    "id": 70,
+    "topic": "Česko",
+    "author": "JiB",
+    "question": "Co se stalo během vlády Karla IV.?",
+    "correct": [
+      "Pohřeb Jana Lucemburského",
+      "Vytvoření svatováclavské koruny",
+      "Založení Univerzity Karlovy",
+      "Smrt císaře Ludvíka Bavorského",
+      "Dokončení stavby hradu Karlštejn",
+      "Stavba hradu Kašperk",
+      "Smrt Urbana V., 200. papeže",
+      "Založení říše Ming",
+      "První morová epidemie",
+      "Boccaccio sepsal Dekameron"
+    ],
+    "wrong": [
+      "Kostnický koncil",
+      "Marco Polo v Číně",
+      "Devátá křížová výprava",
+      "Zlatá bula sicilská",
+      "Vymření Přemyslovců",
+      "Bitva u Kresčaku",
+      "Bitva na Kosově poli",
+      "Počátek Stoleté války",
+      "Vymření Arpádovců",
+      "Konec Stoleté války"
+    ]
+  },
+  {
+    "id": 71,
+    "topic": "Česko",
+    "author": "JiB",
+    "question": "Jde o oficiálně používanou zkratku veřejné vysoké školy v ČR?",
+    "correct": [
+      "JAMU",
+      "AVU",
+      "ČVUT",
+      "MENDELU",
+      "TUL",
+      "UPCE",
+      "UTB",
+      "VŠE",
+      "VUT",
+      "ZČU"
+    ],
+    "wrong": [
+      "MUBR",
+      "LFUK",
+      "HNOJU",
+      "JUBUD",
+      "UBUD",
+      "VŠPTJ",
+      "VŠLE",
+      "JELEN",
+      "NELEJ",
+      "KUP"
+    ]
+  },
+  {
+    "id": 72,
+    "topic": "Geografie",
+    "author": "JiB",
+    "question": "Leží tento stát na více světadílech?",
+    "correct": [
+      "Egypt",
+      "Rusko",
+      "Turecko",
+      "Gruzie",
+      "Kazachstán",
+      "Ázerbajdžán",
+      "Panama",
+      "Francie",
+      "Nizozemské království"
+    ],
+    "wrong": [
+      "Trinidad a Tobago",
+      "USA",
+      "Ekvádor",
+      "Nikaragua",
+      "Čína",
+      "Kyrgyzstán",
+      "Pákistán",
+      "Indie",
+      "Mexiko"
     ]
   }
 ]
