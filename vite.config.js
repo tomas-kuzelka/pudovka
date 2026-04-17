@@ -9,7 +9,7 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'Vědomostní Risk',
+        name: 'Pudovka',
         short_name: 'Pudovka',
         description: 'Vědomostní hra pro více hráčů',
         theme_color: '#0f172a',

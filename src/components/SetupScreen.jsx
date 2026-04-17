@@ -42,7 +42,7 @@ const SetupScreen = ({ onStart }) => {
   return (
     <div className="setup-screen card">
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-        <h1 className="title" style={{ margin: 0 }}>Vědomostní Risk</h1>
+        <h1 className="title" style={{ margin: 0 }}>Pudovka</h1>
         <button 
           onClick={handleMuteToggle} 
           className="btn-add" 

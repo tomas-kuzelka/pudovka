@@ -68,50 +68,46 @@ const GameScreen = ({ players, currentPlayerIndex, question, onEndTurn }) => {
     onEndTurn(turnPoints);
   };
 
-  return (
-    <div className="game-screen">
-      <div className="top-dashboard">
-        {/* All Players Scoreboard */}
-        <div className="scoreboard glass">
-          <h3>Skóre hráčů</h3>
-          <ul>
-            {players.map((p, i) => (
-              <li key={i} className={i === currentPlayerIndex ? 'active-player-score' : ''}>
-                <span>{p.name}</span>
-                <span>
-                  {p.score} b
-                  {i === currentPlayerIndex && turnPoints > 0 && !hasFailed && (
-                    <span className="live-points" title="Nahráno v tomto tahu">(+{turnPoints})</span>
-                  )}
-                </span>
-              </li>
-            ))}
-          </ul>
-        </div>
+  const cumulativePoints = [1, 3, 6, 10, 15];
 
-        {/* Current Turn Status */}
-        <div className="turn-status glass highlight-neon">
-          <h2>Na řadě: <span className="player-highlight">{currentPlayer.name}</span></h2>
-          <div className="points-accumulator">
-            <span className="label">Získáno tento tah:</span>
-            <span className={`points ${hasFailed ? 'failed' : 'earning'}`}>
-              {turnPoints} b
-            </span>
-            {!hasFailed && consecutiveCorrect < 5 && consecutiveCorrect > 0 && (
-              <span className="next-reward">Další správná = +{pointMultiplier[consecutiveCorrect]} b</span>
-            )}
+  return (
+    <div className="game-screen-mobile">
+      <div className="gsm-top">
+        <div className="gsm-players">
+          {players.map((p, i) => (
+            <div 
+              key={i} 
+              className={`gsm-player-card ${i === currentPlayerIndex ? 'active' : ''}`}
+            >
+              <div className="gsm-pname">{p.name}</div>
+              <div className="gsm-pscore">{p.score}</div>
+            </div>
+          ))}
+        </div>
+        
+        <h2 className="gsm-question">{question.question}</h2>
+      </div>
+
+      <div className="gsm-tracker-box">
+        <div className="thermometer">
+          <div className="thermometer-fill" style={{ width: `${(consecutiveCorrect / 5) * 100}%` }}></div>
+          <div className="thermometer-steps">
+            {cumulativePoints.map((pts, idx) => {
+              const isAchieved = consecutiveCorrect > idx;
+              return (
+                <div key={idx} className={`thermometer-step ${isAchieved ? 'achieved' : ''}`}>
+                  {pts}
+                </div>
+              );
+            })}
           </div>
         </div>
       </div>
 
-      <div className="main-play-area">
-        <div className="question-card glass">
-          <h1>{question.question}</h1>
-        </div>
-
-        <div className="answers-grid">
+      <div className="gsm-bottom">
+        <div className="gsm-answers">
           {shuffledAnswers.map((ans, idx) => {
-            let className = "answer-btn";
+            let className = "gsm-btn";
             if (clickedAnswers.includes(ans)) {
               if (question.correct.includes(ans)) {
                 className += " correct pulse";
@@ -119,7 +115,6 @@ const GameScreen = ({ players, currentPlayerIndex, question, onEndTurn }) => {
                 className += " wrong shake";
               }
             } else if (hasFailed) {
-              // If failed, disable others but optionally show which were correct
               className += " disabled";
             }
 
@@ -136,21 +131,22 @@ const GameScreen = ({ players, currentPlayerIndex, question, onEndTurn }) => {
           })}
         </div>
 
-        {/* Actions */}
-        <div className="actions">
-          {consecutiveCorrect > 0 && consecutiveCorrect < 5 && !hasFailed && (
-            <button className="btn-bank" onClick={handleEndTurnManually}>
-              Ukončit tah a zapsat {turnPoints} {turnPoints === 1 ? 'bod' : turnPoints >= 2 && turnPoints <= 4 ? 'body' : 'bodů'}
-            </button>
-          )}
+        <div className="gsm-actions">
+          <button 
+            className="gsm-konec-btn" 
+            onClick={handleEndTurnManually}
+            disabled={hasFailed || consecutiveCorrect >= 5}
+          >
+            Ukončit tah a zapsat {turnPoints} {turnPoints === 1 ? 'bod' : turnPoints >= 2 && turnPoints <= 4 ? 'body' : 'bodů'}
+          </button>
           {hasFailed && (
-             <div className="fail-message slide-up">
-               Špatně! Ztrácíš rozehrané body. Následuje další hráč...
+             <div className="gsm-message fail slide-up">
+               Špatně! Následuje další hráč...
              </div>
           )}
           {consecutiveCorrect === 5 && !hasFailed && (
-             <div className="success-message pulse">
-               Skvělé! Odhalil jsi všechny správné odpovědi. Zapisují se body...
+             <div className="gsm-message success pulse">
+               Vše správně! Skvělé.
              </div>
           )}
         </div>
